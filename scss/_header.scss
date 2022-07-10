@@ -1,0 +1,66 @@
+nav{
+
+    justify-items: center;
+    align-items: center;
+
+}
+
+.barraNav{
+
+   
+    justify-items: center;
+    align-items: center;
+
+}
+
+.listaBarraNav{
+    list-style-type: none;
+    align-items: center;
+    
+   
+}
+
+.listaBarraNav a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+}
+
+.listaBarraNav a:hover{
+    background-color: red;
+}
+
+.listaBarraNav li{
+    display: inline-block;
+    padding-inline: 10px;
+    
+
+}
+
+.homeHeader{
+    text-align: center;
+    background-image: url(../Assets/Images/Prueba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgba(69, 65, 65, 0.03);
+    border-width: auto;
+    border-radius: 20px;
+
+   align-items: center;
+   justify-items: center;
+   margin-bottom: 10px;
+
+   height: 20vh;
+
+   overflow: hidden;
+           
+}
+
+.encabezado a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Expletus Sans', cursive;
+    font-size: 2rem;
+          
+}

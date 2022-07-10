@@ -1,0 +1,46 @@
+footer{
+
+    background:linear-gradient(to top,  blue,red);
+    border-radius: 20px;
+    padding: 10px;
+    
+
+    overflow: hidden;
+
+    
+
+}
+
+.iconos{
+
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.copyright{
+
+    
+
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-weight: bold;
+   padding: 10px;
+   
+    
+}
+
+.navFooter{
+    
+      
+    display: flex;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+
+}
